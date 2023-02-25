@@ -62,3 +62,13 @@ form button {
     border: none;
     cursor: pointer;
 }
+
+li {
+    cursor: pointer;
+    font-size: 23px;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.riscado{
+    text-decoration: line-through
+}
